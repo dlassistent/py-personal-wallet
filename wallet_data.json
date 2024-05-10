@@ -1,0 +1,44 @@
+[
+    {
+        "Date": "2024-05-04",
+        "Category": "Income",
+        "Amount": "1000",
+        "Description": "Test income",
+        "Index": 0
+    },
+    {
+        "Date": "2024-05-04",
+        "Category": "Income",
+        "Amount": "5000",
+        "Description": "Test edit",
+        "Index": 1
+    },
+    {
+        "Date": "2024-05-10",
+        "Category": "Expanse",
+        "Amount": "500",
+        "Description": "buy eat",
+        "Index": 2
+    },
+    {
+        "Index": 3,
+        "Date": "2024-05-10",
+        "Category": "Income",
+        "Amount": "1000",
+        "Description": "test 1"
+    },
+    {
+        "Index": 4,
+        "Date": "2024-05-10",
+        "Category": "Income",
+        "Amount": "5000",
+        "Description": "test 2"
+    },
+    {
+        "Index": 5,
+        "Date": "2024-05-10",
+        "Category": "Expanse",
+        "Amount": "420",
+        "Description": "buy eat"
+    }
+]
