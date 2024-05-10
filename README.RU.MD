@@ -18,7 +18,7 @@
     ```sh
     # Linux
     python3 -m venv venv
-    источник venv/bin/activate
+    source venv/bin/activate
     ```
 3. Запустите код с помощью команды:
    ```powershell
